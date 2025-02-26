@@ -11,7 +11,7 @@
     "npm": "11.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cd server && node index.js"
   },
   "dependencies": {
     "express": "^4.21.2",
