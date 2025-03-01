@@ -1,3 +1,4 @@
+require("dotenv").config(); // Ensure environment variables are loaded
 const passport = require("passport")
 const GoogleStrategy = require("passport-google-oauth20").Strategy
 const User = require("../models/User")
@@ -19,7 +20,7 @@ const callbackURL = "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth
 passport.use(new GoogleStrategy({
     clientID: process.env.GOOGLE_CLIENT_ID,
     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-    callbackURL: callbackURL,
+    callbackURL: "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth/google/callback",
     proxy: true,
 }, (accessToken, refreshToken, profile, done) => {
     User.findOne({ googleId: profile.id }).then((existingUser) => {
