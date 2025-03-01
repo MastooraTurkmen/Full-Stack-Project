@@ -20,7 +20,8 @@ const callbackURL = "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth
 passport.use(new GoogleStrategy({
     clientID: process.env.GOOGLE_CLIENT_ID,
     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-    callbackURL: "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth/google/callback",
+    callbackURL: "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth/google/callback"
+        || "http://localhost:3000/auth/google/callback",
     proxy: true,
 }, (accessToken, refreshToken, profile, done) => {
     User.findOne({ googleId: profile.id }).then((existingUser) => {
