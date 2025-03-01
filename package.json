@@ -20,8 +20,11 @@
   "homepage": "https://github.com/MastooraTurkmen/Full-Stack-Project#readme",
   "description": "",
   "dependencies": {
+    "cookie-session": "^2.1.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "mongoose": "^8.11.0",
+    "nodemon": "^3.1.9",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
