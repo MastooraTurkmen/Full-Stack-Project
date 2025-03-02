@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "cd server && node index.js",
-    "dev": "cd server && nodemon index.js"
+    "start": "cd server && node index.js cd client && npm run dev",
+    "dev": "cd server && nodemon index.js cd client && npm run dev"
   },
   "repository": {
     "type": "git",
