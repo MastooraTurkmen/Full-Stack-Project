@@ -1,0 +1,2827 @@
+{
+  "$other": {
+    "videoLinkHeaders": {
+      "Cookie": "tt_chain_token=0kSriePiZpJ96TiSLR1IwA==;",
+      "Origin": "https://www.tiktok.com",
+      "Referer": "https://www.tiktok.com/"
+    }
+  },
+  "ad_info": {},
+  "data": [
+    {
+      "common": {
+        "doc_id_str": "7335544588825939242"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/26778839f7fe4a9ed8e4ce13fc8e2179~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=20fae9c9&x-expires=1741759200&x-signature=Qn8zHnB48JnMGhjJi94oZ3u4ryc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/26778839f7fe4a9ed8e4ce13fc8e2179~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=5ef37e05&x-expires=1741759200&x-signature=PFmg%2B7AMdw7widWe9r7CMy0tSWo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/26778839f7fe4a9ed8e4ce13fc8e2179~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=812854ef&x-expires=1741759200&x-signature=mShXBh2POO%2FsMGdqEC1wQV%2BVkz4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6758616609159414789",
+          "nickname": "Layallure Skin Care/Makeup",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAmhsUQJduLiinYV93d_1C9FF-ebZt2uMLvb6mwRyAVTEB00LDa71oQadcQ0EqHwzo",
+          "secret": false,
+          "signature": "Product breakdown on INSTAGRAM\nESTHETICIAN\nlayallure@gmail.com",
+          "stitchSetting": 0,
+          "uniqueId": "layallure",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 11500,
+          "followerCount": 4000000,
+          "followingCount": 505,
+          "heart": 94600000,
+          "heartCount": 94600000,
+          "videoCount": 309
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1661268055544838",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "asmrskincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "Bikin video seputar tips skincare menuju kulit sehat saat Ramadan bisa FYP? Yes! Akan ada promote coupon senilai total $1000 untuk 10 Top Fashion &amp; Beauty creators terpilih! \n\n- 6 Pemenang dengan jumlah view terbanyak atas Video (Most Viewed Videos), masing-masing akan mendapatkan ads coupon dengan nilai USD 100; dan \n- 4 Pemenang dengan jumlah Video terbanyak (Most Active), masing-masing akan mendapatkan ads coupon dengan nilai USD 100. \n\nCaranya gampang banget! \n1. Share video seputar tips skincare yang informatif (tips/ hacks/ tutorial) versi kamu menuju kulit yang lebih sehat menjelang Ramadan\n2. Gunakan catchphrase &quot;#SkincareTips&quot; bisa dalam bentuk voice over atau teks dalam video. \n3. Min. upload 2 video selama masa periode. \n4. Wajib menggunakan hashtag #SkincareTips \n5. Pastikan video kamu lebih dari 15 detik ya \n6. Batas upload video adalah 17 April 2022 pukul 23:59 \n\nPeriode: 10 April 2022 - 17 April 2022",
+            "id": "13092466",
+            "isCommerce": false,
+            "profileLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/f34210ceae78f5d501f74267312bbd31.jpeg?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/f34210ceae78f5d501f74267312bbd31.jpeg?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/f34210ceae78f5d501f74267312bbd31.jpeg?shp=b59d6b55&shcp=-",
+            "title": "skincaretips"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1391444",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "glowingskin"
+          },
+          {
+            "coverLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/770c8519c89eb831a34218d44a63bd33.png?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/770c8519c89eb831a34218d44a63bd33.png?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/770c8519c89eb831a34218d44a63bd33.png?shp=b59d6b55&shcp=-",
+            "desc": "",
+            "id": "1643616491262978",
+            "isCommerce": false,
+            "profileLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/18383d7e36c4b83199f3acef872b634a.png?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/18383d7e36c4b83199f3acef872b634a.png?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/18383d7e36c4b83199f3acef872b634a.png?shp=b59d6b55&shcp=-",
+            "title": "skintok"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1658721953382406",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "viralskincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "You've made it to ASMR TikTok. Show us your satisfying skincare routines",
+            "id": "1638368570056709",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc4829f525f927237a156a58ec61621b.png?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc4829f525f927237a156a58ec61621b.png?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc4829f525f927237a156a58ec61621b.png?shp=b59d6b55&shcp=-",
+            "title": "skincareasmr"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25400513",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "satisfyingsound"
+          }
+        ],
+        "collected": false,
+        "createTime": 1707939613,
+        "desc": "Which one is your favorite? #asmrskincare #skincaretips #glowingskin #skintok #viralskincare #skincareasmr #satisfyingsound ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7335544588825939242",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "Layallure Skin Care/Makeup",
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/26778839f7fe4a9ed8e4ce13fc8e2179~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=20fae9c9&x-expires=1741759200&x-signature=Qn8zHnB48JnMGhjJi94oZ3u4ryc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/26778839f7fe4a9ed8e4ce13fc8e2179~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=5ef37e05&x-expires=1741759200&x-signature=PFmg%2B7AMdw7widWe9r7CMy0tSWo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/26778839f7fe4a9ed8e4ce13fc8e2179~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=812854ef&x-expires=1741759200&x-signature=mShXBh2POO%2FsMGdqEC1wQV%2BVkz4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 60,
+          "id": "7335544767467473710",
+          "original": true,
+          "playUrl": "",
+          "title": "original sound"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 11900,
+          "commentCount": 324,
+          "diggCount": 142000,
+          "playCount": 2500000,
+          "shareCount": 746
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": ["Top 3 Tinted SPF’s\n"],
+            "stickerType": 9
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 41,
+            "hashtagId": "1661268055544838",
+            "hashtagName": "asmrskincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 28,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 55,
+            "hashtagId": "13092466",
+            "hashtagName": "skincaretips",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 42,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 68,
+            "hashtagId": "1391444",
+            "hashtagName": "glowingskin",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 56,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 77,
+            "hashtagId": "1643616491262978",
+            "hashtagName": "skintok",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 69,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 92,
+            "hashtagId": "1658721953382406",
+            "hashtagName": "viralskincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 78,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 106,
+            "hashtagId": "1638368570056709",
+            "hashtagName": "skincareasmr",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 93,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 123,
+            "hashtagId": "25400513",
+            "hashtagName": "satisfyingsound",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 107,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 1331082,
+          "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72d83ce55baf4f4c9227b22d29f134db_1707939614~tplv-dmt-logom:tos-useast5-i-0068-tx/okzM4ZxIP0wciA2iuBBwXg4HhAkANDFSEDAZE.image?lk3s=b59d6b55&x-expires=1741759200&x-signature=yFcfIskm0vptNFowxf9FKoXFqMI%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ow7YCMNiIpofqnLqFwQoJEk5IAlyd4BkhIzBiA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3422&bt=1711&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ZDhkPGc4N2Y3ZWdmZ2c3ZEBpM3JwdHI5cjdrcTMzZzczNEA1MjY1YGMwX14xX2IzMjIxYSNpaDBmMmRjNDNgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1741759322&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=99a45219f9b89ca5918e2b82a57cf8ca&tk=tt_chain_token",
+          "duration": 60,
+          "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8d8de81c553a498aacdd2a11773b0485_1707939615?lk3s=b59d6b55&x-expires=1741759200&x-signature=B7HRDo8uMERZTSZAl2V8Aahr4Zs%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7335544588825939242",
+          "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/70916337186a45019b85891145434521_1707939615?lk3s=b59d6b55&x-expires=1741759200&x-signature=f9qj%2BsP0QzffsNTWE%2BqS5cBE9gw%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAAwAFY5PiXJlCoQIyiB4zfqEjlIwndoBpNIqI/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2598&bt=1299&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=OGk5NWc7PDg4NGQ3NDg0OEBpM3JwdHI5cjdrcTMzZzczNEBeMGNgXzQ1Xi8xNl4yNjNfYSNpaDBmMmRjNDNgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1741759322&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=f22fabc819d13d9c2c8c0ab9f57cc9a6&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72d83ce55baf4f4c9227b22d29f134db_1707939614~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=80R%2BhNlyhktdpwwrGw6qAsbMVc8%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/70916337186a45019b85891145434521_1707939615~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=N2BcrZqlXorM9FWQDnS4mzPpcCQ%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/70916337186a45019b85891145434521_1707939615~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=9yqYuYyAAKGgjq%2FlKfyuceYM%2Fno%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7302561423228472608"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6a1b7d6679f8ad6302ce8e2966d95a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=f8620e6c&x-expires=1741759200&x-signature=MHXygKOVdi9Gkwu2slvIrjc1px8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6a1b7d6679f8ad6302ce8e2966d95a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=e5f262ed&x-expires=1741759200&x-signature=E%2F2nbNcrXsX%2FTmdko9AkxKIeKPY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6a1b7d6679f8ad6302ce8e2966d95a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=36e048da&x-expires=1741759200&x-signature=EDNHkYy9bRBp8ypfkOpVHhKsJ%2F8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 3,
+          "duetSetting": 3,
+          "ftc": false,
+          "id": "7131507987201704965",
+          "nickname": "BEAME",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAQhM6V-suNn00OJ3hjClHMzdUilIPvQbaGolb85fdy2-mjdoe9uv3kkopRiM_UOIg",
+          "secret": false,
+          "signature": "SPF for healthy skin and a happy mind ☀️\n⬇️ Pre-Order Something You Mist™️ SPF",
+          "stitchSetting": 3,
+          "uniqueId": "beamespf",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 25700,
+          "followerCount": 527,
+          "followingCount": 507,
+          "heart": 78700,
+          "heartCount": 78700,
+          "videoCount": 254
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "29298510",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "beautynightroutine"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "741795",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "spf"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "132364",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreen"
+          },
+          {
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "desc": "S is for Skincare",
+            "id": "504245",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "title": "skincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "7166943890640928773",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "suncaretok"
+          }
+        ],
+        "collected": false,
+        "createTime": 1700260083,
+        "desc": "🌙 Wondering if sunscreen is a nighttime essential? Let's dive into the skincare debate! #beautynightroutine #spf #sunscreen #skincare #suncaretok ",
+        "digged": false,
+        "duetEnabled": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7302561423228472608",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "BEAME",
+          "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6a1b7d6679f8ad6302ce8e2966d95a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=f8620e6c&x-expires=1741759200&x-signature=MHXygKOVdi9Gkwu2slvIrjc1px8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6a1b7d6679f8ad6302ce8e2966d95a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=e5f262ed&x-expires=1741759200&x-signature=E%2F2nbNcrXsX%2FTmdko9AkxKIeKPY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6a1b7d6679f8ad6302ce8e2966d95a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=36e048da&x-expires=1741759200&x-signature=EDNHkYy9bRBp8ypfkOpVHhKsJ%2F8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 24,
+          "id": "7302561440416811808",
+          "original": true,
+          "playUrl": "",
+          "title": "original sound"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 23,
+          "commentCount": 5,
+          "diggCount": 201,
+          "playCount": 29600,
+          "shareCount": 58
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": ["Can sunscreen be \napplied at night?\n", "NO‼️"],
+            "stickerType": 4
+          }
+        ],
+        "stitchEnabled": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 108,
+            "hashtagId": "29298510",
+            "hashtagName": "beautynightroutine",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 89,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 113,
+            "hashtagId": "741795",
+            "hashtagName": "spf",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 109,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 124,
+            "hashtagId": "132364",
+            "hashtagName": "sunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 114,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 134,
+            "hashtagId": "504245",
+            "hashtagName": "skincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 125,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 146,
+            "hashtagId": "7166943890640928773",
+            "hashtagName": "suncaretok",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 135,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 2064092,
+          "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/ogeQrAejvh4HIowGQK8gnvMcX18MAEe3qAafWw?lk3s=b59d6b55&x-expires=1741759200&x-signature=txWV0fAJiWcffwHNjktNhEEE27M%3D&shp=b59d6b55&shcp=-",
+          "duration": 24,
+          "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/73b24322e7534dafaa3d98227f7a3645_1700260085?lk3s=b59d6b55&x-expires=1741759200&x-signature=TswR8AGpApldpxImQnWbqdR0GhQ%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7302561423228472608",
+          "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/7e489d2efd7c47039b04907f6737c755_1700260084?lk3s=b59d6b55&x-expires=1741759200&x-signature=DqXTAuZb%2FDKy%2BQ4h8RaZ%2FGTCogQ%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oYvfj8BVKAewIcGcoErXeqvQiHMA4UAQ1g8zfw/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=4030&bt=2015&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=Ojs6NmQ0aTVkM2Q3NTRnZkBpMzg2a3U5cnh4bzMzZjczM0BiMy1eXzNjXjYxNjFeYC0yYSNwaGRnMmRrX19gLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1741759286&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=20d058d45a44b37b4f5cda4aa2a99894&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/ogeQrAejvh4HIowGQK8gnvMcX18MAEe3qAafWw~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=odHfecebdAtNW9hMzUANGUy1Wxg%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/7e489d2efd7c47039b04907f6737c755_1700260084~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=mk3A7Mw4oURWfX5B98KjXnvBt%2Fs%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/7e489d2efd7c47039b04907f6737c755_1700260084~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=HdtyooKocJGQ0q1%2BAw%2FHhVYtXKM%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7349231019507109152"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ac86625f36940a2eb7d5f8b24f81a553~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=310ea4fd&x-expires=1741759200&x-signature=%2FOY1giCLvIIbzzsi5PK2cvSJ4BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ac86625f36940a2eb7d5f8b24f81a553~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=735b4df1&x-expires=1741759200&x-signature=VuX9QYex1W817iLhnxwq2U1oP0o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ac86625f36940a2eb7d5f8b24f81a553~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=af6496b2&x-expires=1741759200&x-signature=%2FbxiSP%2FXirHIa2nK%2F9TX0%2Bbnqzw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6805610858032694278",
+          "nickname": "Georgia Rose MUA",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAdsHntx8hLaNd_drCh1Id1WHIwKGqqJOHCi73EAd5wXsA73D26mJO7rNFPwuep6gM",
+          "secret": false,
+          "signature": "Actress and Makeup Artist",
+          "stitchSetting": 0,
+          "uniqueId": "georgiarosemua",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 4767,
+          "followerCount": 7637,
+          "followingCount": 315,
+          "heart": 233300,
+          "heartCount": 233300,
+          "videoCount": 269
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "76529547",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "larocheposay"
+          },
+          {
+            "coverLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/48ec1e3357a3e0da982e2c4d29e02c18.png?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/48ec1e3357a3e0da982e2c4d29e02c18.png?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/48ec1e3357a3e0da982e2c4d29e02c18.png?shp=b59d6b55&shcp=-",
+            "desc": "From everyday looks to all out glamour, show us your makeup skills 💄",
+            "id": "5391",
+            "isCommerce": false,
+            "profileLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/ebb2bd2392c4ebfff72efd84d679af3d.png?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/ebb2bd2392c4ebfff72efd84d679af3d.png?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/ebb2bd2392c4ebfff72efd84d679af3d.png?shp=b59d6b55&shcp=-",
+            "title": "makeup"
+          }
+        ],
+        "collected": false,
+        "createTime": 1711126195,
+        "desc": "The SPF duo that sits beautifully underneath and ON TOP of makeup ☀️ @La Roche-Posay Anthelios UVmune 400 Invisible Fluid SPF 50+ & Invisible Anti Shine Spray SPF 50+ Ad #larocheposay #makeup",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7349231019507109152",
+        "isAd": true,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "Georgia Rose MUA",
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ac86625f36940a2eb7d5f8b24f81a553~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=310ea4fd&x-expires=1741759200&x-signature=%2FOY1giCLvIIbzzsi5PK2cvSJ4BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ac86625f36940a2eb7d5f8b24f81a553~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=735b4df1&x-expires=1741759200&x-signature=VuX9QYex1W817iLhnxwq2U1oP0o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ac86625f36940a2eb7d5f8b24f81a553~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=af6496b2&x-expires=1741759200&x-signature=%2FbxiSP%2FXirHIa2nK%2F9TX0%2Bbnqzw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 30,
+          "id": "7349231049118878496",
+          "original": true,
+          "playUrl": "",
+          "title": "original sound"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 1460,
+          "commentCount": 205,
+          "diggCount": 9076,
+          "playCount": 5300000,
+          "shareCount": 473
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "skincare \nskin goals \nClear skin \nSkincare tips \nAnti ageing "
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 84,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAAfyzvECZdz72WAA_j97X6qXWvcJuYJW6A7ZgL-OMFvEBFndF0hstONK0JuJOGqK-t",
+            "start": 69,
+            "subType": 0,
+            "type": 0,
+            "userId": "6826977490638111749",
+            "userUniqueId": "larocheposay"
+          },
+          {
+            "awemeId": "",
+            "end": 183,
+            "hashtagId": "76529547",
+            "hashtagName": "larocheposay",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 170,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 191,
+            "hashtagId": "5391",
+            "hashtagName": "makeup",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 184,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 1713874,
+          "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/ed8775ddd9c04046ba43c6787c482f37_1711126199?lk3s=b59d6b55&x-expires=1741759200&x-signature=2VXu0z0oxi%2B5%2BbfutDrpsE%2F9Wts%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/o8XO8AMesbfNYWGRX7PHvA8RAge7EeHRbjU2Qg/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3756&bt=1878&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=PDRpaDw5NWg6NjdkZmlkZEBpajZrcWw5cnJ1cTMzZjczM0BiYzQzLzA2NTYxNjYwYzAvYSNxZHBnMmRzX3JgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1741759292&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=647069817946623a553b48ea5b16dd0c&tk=tt_chain_token",
+          "duration": 30,
+          "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/0c39bfc223c34acd88b348b8d04098c2_1711126199?lk3s=b59d6b55&x-expires=1741759200&x-signature=PkZZ9s9wqgmQ8skkURnxHHfhEQY%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7349231019507109152",
+          "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/63502f8b468e4ccc86e0967661864054_1711126198?lk3s=b59d6b55&x-expires=1741759200&x-signature=tkdWKBSy96ZQNQAKwekWb0cjvfs%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/osMe2LvZAXwG3GKHI2bNHdSIXHIReXf8AgE7Qf/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3346&bt=1673&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ZWczZDozaWZoNjs2OWQ3NEBpajZrcWw5cnJ1cTMzZjczM0AxMmBhYGJhXjUxX2JjLS0vYSNxZHBnMmRzX3JgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1741759292&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=3fdea46db71a80836d64ed64cb982739&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/ed8775ddd9c04046ba43c6787c482f37_1711126199~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=od2psECoJSOkaSwqcxog9oDUWVc%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/63502f8b468e4ccc86e0967661864054_1711126198~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=ui0FDUQq3jyb6j8%2F4JC252yG14k%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/63502f8b468e4ccc86e0967661864054_1711126198~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=8ectPKtByI24z4IUjSfrr28DEHg%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7364044907285073198"
+      },
+      "item": {
+        "anchors": [
+          {
+            "description": "CapCut · Video Editor",
+            "extraInfo": {
+              "subtype": ""
+            },
+            "icon": {
+              "urlList": [
+                "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=b59d6b55&shcp=-"
+              ]
+            },
+            "id": "0",
+            "keyword": "CapCut · Try some new effects",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut · Try some new effects\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":25566779651,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"effect;effect_7028300\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":25566780163,\"maker_source\":\"\",\"publish_key\":\"capability\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+              "height": 64,
+              "urlList": [
+                "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=b59d6b55&shcp=-"
+              ],
+              "width": 64
+            },
+            "type": 54
+          }
+        ],
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9bf129e9484fd2082d525caf2f939074~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=9cad389e&x-expires=1741759200&x-signature=mZuOhqMaT9PSVV1l7LVl5xJ%2FiAg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9bf129e9484fd2082d525caf2f939074~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=cb003b34&x-expires=1741759200&x-signature=UjVAJbnrkypIUt%2F5CK%2FUYXTmlBk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9bf129e9484fd2082d525caf2f939074~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=131e4424&x-expires=1741759200&x-signature=W3y7myNkfcFlJE8R98ke%2B5%2B6HWE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6790088838297142277",
+          "nickname": "leslykomez (IG & YT)",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAACLb90u6DV61cWa-SAOFjUMsRFp08o1wx-ZQPwfV76lAjfLMGoErBOtGwYpbDTP49",
+          "secret": false,
+          "signature": "Licensed Esthetician \nSephora Squad 2023\nLeslygomez.LTS@gmail.com",
+          "stitchSetting": 0,
+          "uniqueId": "leslykomez",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 3587,
+          "followerCount": 42000,
+          "followingCount": 742,
+          "heart": 3500000,
+          "heartCount": 3500000,
+          "videoCount": 1890
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "84656322",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreenspray"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "4655866",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "spf50"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1677697564118017",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreenmist"
+          }
+        ],
+        "collected": false,
+        "createTime": 1714575332,
+        "desc": "Replying to @kara sunscreen spray for oily skin? @La Roche-Posay Anthelios anti shine Invisible Fresh Mist SPF50 #sunscreenspray #spf50  #sunscreenmist ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7364044907285073198",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "Cryptocastro",
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b402d018f0cf3c64b83cc0db38c7a22~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=d32168dc&x-expires=1741759200&x-signature=WO5e21puMLrHgUJpwkMaWITcG7Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b402d018f0cf3c64b83cc0db38c7a22~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=ae242d71&x-expires=1741759200&x-signature=Vxld7AFD0J6ugSSFWx7K90mbLpM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b402d018f0cf3c64b83cc0db38c7a22~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=adefb2ce&x-expires=1741759200&x-signature=BB26OXOgA%2FUHRvDogWS3ssxYYUE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 29,
+          "id": "7356357139525208874",
+          "original": true,
+          "playUrl": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-v-27dcd7c799-us/oMXIHEfDkI0fTXModDA8ALDguC7EUEfAFAAaIA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=GNDpcInz7ThVZLOOXq8Zmo&mime_type=audio_mpeg&qs=13&rc=MzQ7PHQ5cnBqcjMzZzU8NEBpMzQ7PHQ5cnBqcjMzZzU8NEBzay00MmRrY19gLS1kMS9zYSNzay00MmRrY19gLS1kMS9zcw%3D%3D&btag=e00048000&expire=1741590091&l=20250310140101AB69C33645C4CED70317&ply_type=3&policy=3&signature=c64dd4496bfe08c656c08bf91d0df1ed&tk=0&download=true",
+          "title": "JUMP YOU CRYPTOCASTRO EDIT"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 7766,
+          "commentCount": 124,
+          "diggCount": 23400,
+          "playCount": 1200000,
+          "shareCount": 3145
+        },
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 17,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAA_PVlYiw8xUM2xAqE6AeeFriy_aRYZF0T_piXODVZXzzGBJFUUVZ7CZfPebvDIoFP",
+            "start": 12,
+            "subType": 2,
+            "type": 0,
+            "userId": "7052433564357428229",
+            "userUniqueId": "smolandsilky"
+          },
+          {
+            "awemeId": "",
+            "end": 64,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAAfyzvECZdz72WAA_j97X6qXWvcJuYJW6A7ZgL-OMFvEBFndF0hstONK0JuJOGqK-t",
+            "start": 49,
+            "subType": 0,
+            "type": 0,
+            "userId": "6826977490638111749",
+            "userUniqueId": "larocheposay"
+          },
+          {
+            "awemeId": "",
+            "end": 128,
+            "hashtagId": "84656322",
+            "hashtagName": "sunscreenspray",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 113,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 135,
+            "hashtagId": "4655866",
+            "hashtagName": "spf50",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 129,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 151,
+            "hashtagId": "1677697564118017",
+            "hashtagName": "sunscreenmist",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 137,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 1120262,
+          "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oAuEfADMarhDeFRAmUsScCSEgIAkB9TQIy2lEN?lk3s=b59d6b55&x-expires=1741759200&x-signature=HRQyUnPb%2Bvh1m4%2B%2FCXa8mOUGqOU%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oMFcfGnmMA6NDsSgE29l5RrBSdkfIzAiEUagQD/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2778&bt=1389&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=NjY8aGk8aTMzNWgzOTczOUBpanAzOnU5cjc4cjMzZzczNEBeLzE2MWFhNTExNC9gLjE2YSMzYWgyMmRrYm1gLS1kMS9zcw%3D%3D&btag=e000b8000&expire=1741759281&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=4a90ab89050241e5c79d5078f08b251a&tk=tt_chain_token",
+          "duration": 19,
+          "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cdc62b6328c44c5dbfab8a03bd3a5efd_1714575335?lk3s=b59d6b55&x-expires=1741759200&x-signature=FpvVqlu6d%2B1i53nUB7bPktx2Iv8%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7364044907285073198",
+          "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0d1088f4b6c7404bbd9cbd4cfc8b3e96_1714575335?lk3s=b59d6b55&x-expires=1741759200&x-signature=uz0hrEoEybzlSgXFFcgxv6CnlZ0%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oUaR2ME5AFUm4kSeE9cSrCgQDfArFDgsNBJmlI/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2188&bt=1094&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ZGY2ZDo2aTk0ZzloODlmO0BpanAzOnU5cjc4cjMzZzczNEA0YV5fM15gXmIxXy1fMzE1YSMzYWgyMmRrYm1gLS1kMS9zcw%3D%3D&btag=e000b8000&expire=1741759281&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=e36128af4ad2a9d8bd19233a280ed6ce&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAuEfADMarhDeFRAmUsScCSEgIAkB9TQIy2lEN~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=vJH8J18cHQXVMKw0BvDXF8XwhR4%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0d1088f4b6c7404bbd9cbd4cfc8b3e96_1714575335~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=x7a7822MqI4BbOVxK1jKec9F65k%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0d1088f4b6c7404bbd9cbd4cfc8b3e96_1714575335~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=ccaMUBflcctlJCCLnjk%2BY2dOzfU%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "6992929671956450566"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/acbe9956a1040fa153f7fdf873832e0e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=14597fa9&x-expires=1741759200&x-signature=9JxmgTwHJShVM5SsQLQjVr%2F9Sb4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/acbe9956a1040fa153f7fdf873832e0e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=7d9d38e7&x-expires=1741759200&x-signature=MvuUsmjdR6wVLtcYRltOgmb%2FEjE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/acbe9956a1040fa153f7fdf873832e0e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=4eb3ec8f&x-expires=1741759200&x-signature=AR%2F8J5tkp3YWQprCZzhRBv8CIRc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6879855541407220737",
+          "nickname": "Dr. Katie 👩🏻‍⚕️Dermatologist",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAABOJxbqL8sSLdq-pmX_eAcbiqE_rq9qmXYcBAFmqYTErYo2ngo4kfuhfVLdcCrLnJ",
+          "secret": false,
+          "signature": "Dermatologist - Board certified in 🇨🇦 and 🇺🇸\nMom of 2 👬",
+          "stitchSetting": 0,
+          "uniqueId": "drkatiebeleznay",
+          "verified": true
+        },
+        "authorStats": {
+          "diggCount": 11800,
+          "followerCount": 110900,
+          "followingCount": 320,
+          "heart": 3200000,
+          "heartCount": 3200000,
+          "videoCount": 1209
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "132364",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "741795",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "spf"
+          },
+          {
+            "coverLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/770c8519c89eb831a34218d44a63bd33.png?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/770c8519c89eb831a34218d44a63bd33.png?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/770c8519c89eb831a34218d44a63bd33.png?shp=b59d6b55&shcp=-",
+            "desc": "",
+            "id": "1643616491262978",
+            "isCommerce": false,
+            "profileLarger": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/18383d7e36c4b83199f3acef872b634a.png?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/18383d7e36c4b83199f3acef872b634a.png?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/18383d7e36c4b83199f3acef872b634a.png?shp=b59d6b55&shcp=-",
+            "title": "skintok"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "23090768",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dermatologist"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1692964963358725",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "drkatiebeleznay"
+          }
+        ],
+        "collected": false,
+        "createTime": 1628168318,
+        "desc": "Getting a little saucy with body #sunscreen 💃☀️ #spf #skintok #dermatologist #drkatiebeleznay",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "6992929671956450566",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "Sauce",
+          "authorName": "Naïka",
+          "coverLarge": "https://p16-sg-default.akamaized.net/aweme/720x720/tos-alisg-v-2774/057bcf057b154bccb1c83055b8b1c5fd.jpeg",
+          "coverMedium": "https://p16-sg-default.akamaized.net/aweme/200x200/tos-alisg-v-2774/057bcf057b154bccb1c83055b8b1c5fd.jpeg",
+          "coverThumb": "https://p16-sg-default.akamaized.net/aweme/100x100/tos-alisg-v-2774/057bcf057b154bccb1c83055b8b1c5fd.jpeg",
+          "duration": 60,
+          "id": "6894919740976809986",
+          "original": false,
+          "playUrl": "",
+          "title": "Sauce"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 6360,
+          "commentCount": 72,
+          "diggCount": 11200,
+          "playCount": 550100,
+          "shareCount": 287
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "Favourite Sunscreens\n for Body",
+              "La Roche Posay Anthelios SPF 60 for Face & Body",
+              "Vichy Ideal Soleil Sport Ultra Light SPF 60",
+              "Sun Bum Original Sunscreen Lotion ",
+              "I have the SPF 30 here but often use the SPF 50",
+              "Elta MD UV Defense \nSPF 45",
+              "No sunscreen was wasted in the filming of this 😊"
+            ],
+            "stickerType": 4
+          },
+          {
+            "stickerText": ["Body Sunscreen"],
+            "stickerType": 9
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 43,
+            "hashtagId": "132364",
+            "hashtagName": "sunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 33,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 53,
+            "hashtagId": "741795",
+            "hashtagName": "spf",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 49,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 62,
+            "hashtagId": "1643616491262978",
+            "hashtagName": "skintok",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 54,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 77,
+            "hashtagId": "23090768",
+            "hashtagName": "dermatologist",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 63,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 94,
+            "hashtagId": "1692964963358725",
+            "hashtagName": "drkatiebeleznay",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 78,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 1051436,
+          "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2aa1a4672e944d6793774211ac97e9de_1628168319~tplv-dmt-logom:tos-maliva-p-0000/9ae55ee19fc74623aabcf49e1dd1d6b6.image?lk3s=b59d6b55&x-expires=1741759200&x-signature=b1KOHNBHAo5e5Ol41I%2F2Lr8km1o%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c801-us/2ce61db536c6476ca9af0c2588ea7c12/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2062&bt=1031&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ODs8ZmU1Nzo8NjhnZjgzO0BpanhkbmQ6ZnV4NzMzNzczM0BgNTAuYDReXl4xMTMzX2M0YSNgcjNycjRfLTJgLS1kMTZzcw%3D%3D&btag=e000b8000&expire=1741759287&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=2b88f96e6c62d784cf5ed9f8d174d491&tk=tt_chain_token",
+          "duration": 25,
+          "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7a34b63dbfab4ff590550c8c0b60dc75_1628168320?lk3s=b59d6b55&x-expires=1741759200&x-signature=SH4v4J4eizE%2BURYfPfYwWaFqo3g%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "6992929671956450566",
+          "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/851e4416efc7416d9b8f0f4a09b94ecd_1628168320?lk3s=b59d6b55&x-expires=1741759200&x-signature=1aqx2evHcwnA5OpoeslE%2BSo9bTY%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/f2fc1226343c46778451ed3b7e41effe/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2052&bt=1026&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=OTVnZGRpOzo0NGdpaDk7OUBpanhkbmQ6ZnV4NzMzNzczM0AvYWA0MjNgNmExYDEuLS9jYSNgcjNycjRfLTJgLS1kMTZzcw%3D%3D&btag=e000b8000&expire=1741759287&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=e4cc23f27818b7c790aae6c87073f8c3&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2aa1a4672e944d6793774211ac97e9de_1628168319~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=nAkmKSf52bJxO6CM6VvDgbflUHw%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/851e4416efc7416d9b8f0f4a09b94ecd_1628168320~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=RXqlSObf2yappJ%2BUA4JkLHrk6Qw%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/851e4416efc7416d9b8f0f4a09b94ecd_1628168320~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=7pfK4%2BN1FLPvrO0jzMmsYNcaETo%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7168983627655662853"
+      },
+      "item": {
+        "anchors": [
+          {
+            "description": "Effects",
+            "extraInfo": {
+              "subtype": ""
+            },
+            "icon": {
+              "urlList": [
+                "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=b59d6b55&shcp=-"
+              ]
+            },
+            "id": "1628696",
+            "keyword": "Negative by arttkid",
+            "thumbnail": {
+              "height": 64,
+              "urlList": [
+                "https://p77-sg.tiktokcdn.com/obj/tiktok-obj/64px_anchor_effect3x.png?shp=b59d6b55&shcp=-"
+              ],
+              "width": 64
+            },
+            "type": 28
+          }
+        ],
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/599b616ebd3746eff34d1e70e9bc4637~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=414a6035&x-expires=1741759200&x-signature=O0TJrRIOrAsehDYST7Xnsiwgw5s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/599b616ebd3746eff34d1e70e9bc4637~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=752f63bb&x-expires=1741759200&x-signature=HmbroYfs%2BbEI1oQbS4rM7dUDuVc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/599b616ebd3746eff34d1e70e9bc4637~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=65443a08&x-expires=1741759200&x-signature=p1v64BB%2B4r2yLOr1RFr3WmlVlvk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6793783560287077382",
+          "nickname": "Sowny 🧚🏽‍♀️",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAJA0wXHzIrhgmEQGbtD258y3kmFWAICJHoftnF_jNzGXaUeAmusU1dM8FFn6Zk5l4",
+          "secret": false,
+          "signature": "A Multi-Faceted Yapper 🧚🏽‍♀️\n\n💌: hisowny@gmail.com",
+          "stitchSetting": 0,
+          "uniqueId": "sowny_",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 60500,
+          "followerCount": 4182,
+          "followingCount": 200,
+          "heart": 512200,
+          "heartCount": 512200,
+          "videoCount": 94
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "It's #Fail time",
+            "id": "5013",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a21ea416880cd7c9f6007a8efc8283a?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a21ea416880cd7c9f6007a8efc8283a?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a21ea416880cd7c9f6007a8efc8283a?shp=b59d6b55&shcp=-",
+            "title": "fail"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "132364",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1692613195274245",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "uvcamera"
+          }
+        ],
+        "collected": false,
+        "createTime": 1669159078,
+        "desc": "Might as well buy the expensive UV camera 🫠 #fail #sunscreen #uvcamera ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "effectStickers": [
+          {
+            "ID": "1628696",
+            "name": "Negative by arttkid"
+          }
+        ],
+        "forFriend": false,
+        "id": "7168983627655662853",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "on & on",
+          "authorName": "piri & tommy",
+          "coverLarge": "https://p16-sg-default.akamaized.net/aweme/720x720/tos-alisg-v-2774/osfBE4BmBgAEJAZBAEpnfAqC4y5DOF3pFQCWxt.jpeg",
+          "coverMedium": "https://p16-sg-default.akamaized.net/aweme/200x200/tos-alisg-v-2774/osfBE4BmBgAEJAZBAEpnfAqC4y5DOF3pFQCWxt.jpeg",
+          "coverThumb": "https://p16-sg-default.akamaized.net/aweme/100x100/tos-alisg-v-2774/osfBE4BmBgAEJAZBAEpnfAqC4y5DOF3pFQCWxt.jpeg",
+          "duration": 60,
+          "id": "7122836057481021441",
+          "original": false,
+          "playUrl": "",
+          "title": "on & on"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 5579,
+          "commentCount": 118,
+          "diggCount": 12900,
+          "playCount": 1700000,
+          "shareCount": 609
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "Testing the Viral TikTok Filter that’s supposed to mimic a UV camera ",
+              "I used three different  types of sunscreen:\n- Mineral sunscreen \n- Chemical sunscreen \n- Stick SPF (chemical)",
+              "It’s a No for me 😬"
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 50,
+            "hashtagId": "5013",
+            "hashtagName": "fail",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 45,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 61,
+            "hashtagId": "132364",
+            "hashtagName": "sunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 51,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 71,
+            "hashtagId": "1692613195274245",
+            "hashtagName": "uvcamera",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 62,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 1725990,
+          "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/933138f6e7544a6db879ca4fe9ac1767_1669159082?lk3s=b59d6b55&x-expires=1741759200&x-signature=MBmViTbM36CgEPOEtJcRHC9Jh1U%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c801-us/oUUIxkxAq8hjBNV9zgIwXvf9tFQAToNIhWCQ6L/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3926&bt=1963&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ZTY7NWY4PDUzOzw7ODhmNUBpanFpeDs6ZjlvZzMzNzczM0A1YTYyLzI2NjAxYV8zLi1gYSNeLWZlcjRnZXJgLS1kMTZzcw%3D%3D&btag=e000b8000&expire=1741759283&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=abb3abfd23342e54ad5a57cd7c8e6358&tk=tt_chain_token",
+          "duration": 21,
+          "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/70fb537a687d4c5294f6cbc27de9c05f_1669159080?lk3s=b59d6b55&x-expires=1741759200&x-signature=0o5DoiDLCTF%2BFbtQIL3b43oT2NY%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 960,
+          "id": "7168983627655662853",
+          "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/45a7995ff2b24f02b8ed8f693467cd3c_1669159080?lk3s=b59d6b55&x-expires=1741759200&x-signature=ZwRjar2P9OCnT3eHaPKosahhgnE%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/o4XIWxhRNAAXQ6zNCKw9xjUoTfIuqvlEwkhIgV/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3370&bt=1685&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ZGRlOzk1OmU1NWdoNjZnNkBpanFpeDs6ZjlvZzMzNzczM0BeXjA0MWAwXl4xYWJjYDMyYSNeLWZlcjRnZXJgLS1kMTZzcw%3D%3D&btag=e000b8000&expire=1741759283&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=84705fb581e2f561f14f58ac6c9c00eb&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/933138f6e7544a6db879ca4fe9ac1767_1669159082~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=gQhDfVrEZfSNbImulGobiZbdNlc%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/45a7995ff2b24f02b8ed8f693467cd3c_1669159080~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=jCl3mVr4rRzKL7AqGwGyXy3GIoE%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/45a7995ff2b24f02b8ed8f693467cd3c_1669159080~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=icUrvUBzzg8Clcu9mrdZdklcCcI%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 540
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7358354540787158304"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6113911d46a5358af618c7373f55e59f~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=73902c1f&x-expires=1741759200&x-signature=OVEIJqndCTVSDLWz1oWkyukizvA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6113911d46a5358af618c7373f55e59f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=68aabe26&x-expires=1741759200&x-signature=3CdN14fGztYwimZjEBv4XEiXok0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6113911d46a5358af618c7373f55e59f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=1b7c335b&x-expires=1741759200&x-signature=oiUDAEx3l4BYnZ2mXQM1zxUBjSY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "27748700",
+          "nickname": "Jill🌸 | Soloreis Azië",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAon9nFOYOuKIfqxZGdqRtAQhJK7_32MQUD6vJLnqoKK8",
+          "secret": false,
+          "signature": "🩷 J I L L  \n📍 Filipijnen\n🌎 Solo door Azië\n💌 info@throughjillslens.com",
+          "stitchSetting": 0,
+          "uniqueId": "jillopreis",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 68900,
+          "followerCount": 5698,
+          "followingCount": 84,
+          "heart": 320800,
+          "heartCount": 320800,
+          "videoCount": 129
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "82085",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "acne"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "741795",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "spf"
+          },
+          {
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "desc": "S is for Skincare",
+            "id": "504245",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "title": "skincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "18931611",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "ochama"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "7263603396333010976",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "ochamafinds"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "7235871800859557914",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "tryochama"
+          }
+        ],
+        "collected": false,
+        "createTime": 1713250432,
+        "desc": "Dé beste SPF als je een acne gevoelige huid hebt: de La Roche Posay SPF 50 Anthelios UVMUNE ☀️ • Op Ochama scoor je hem met hoge korting! Gebruik de code “JILL” voor EXTRA korting. Bij een bestelling van min. €6 krijg je €5 korting en bij een bestelling van min. €29 krijg je €10 korting.  Ochama heeft een ruim assortiment, authentieke exclusieve producten, lage prijzen met veel aanbiedingen én is fijn in gebruik. Je haalt je bestelling GRATIS op bij een van de 650+ afhaalpunten maar je kunt het ook laten thuisbezorgen! 🤩 • #acne #spf #skincare #ochama #ochamafinds #tryochama ^ad @Ochama ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7358354540787158304",
+        "isAd": true,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "Be Yourself 2",
+          "authorName": "Prod. By Rose",
+          "coverLarge": "https://p16-sg-default.akamaized.net/aweme/720x720/tos-alisg-v-2774/ocZBwFBbAnjfA0F5EnexCoQuJAItIA2QDyWTEg.jpeg",
+          "coverMedium": "https://p16-sg-default.akamaized.net/aweme/200x200/tos-alisg-v-2774/ocZBwFBbAnjfA0F5EnexCoQuJAItIA2QDyWTEg.jpeg",
+          "coverThumb": "https://p16-sg-default.akamaized.net/aweme/100x100/tos-alisg-v-2774/ocZBwFBbAnjfA0F5EnexCoQuJAItIA2QDyWTEg.jpeg",
+          "duration": 130,
+          "id": "7239756792690296833",
+          "original": false,
+          "playUrl": "",
+          "title": "That Couch Potato Again"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 98,
+          "commentCount": 12,
+          "diggCount": 250,
+          "playCount": 37900,
+          "shareCount": 37
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "La Roche posay SPF 50",
+              "Acne prone skin spf ☀️",
+              "Skincare, acne, acne gevoelige huid, acne safe, spf, la Roche posay, skincare finds, acne safe skincare, spf 50, skincare Nederland, ochama, ochama finds, beste spf voor acne",
+              "Code “JILL” ",
+              "Ochama"
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 535,
+            "hashtagId": "82085",
+            "hashtagName": "acne",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 530,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 540,
+            "hashtagId": "741795",
+            "hashtagName": "spf",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 536,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 550,
+            "hashtagId": "504245",
+            "hashtagName": "skincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 541,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 558,
+            "hashtagId": "18931611",
+            "hashtagName": "ochama",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 551,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 571,
+            "hashtagId": "7263603396333010976",
+            "hashtagName": "ochamafinds",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 559,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 582,
+            "hashtagId": "7235871800859557914",
+            "hashtagName": "tryochama",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 572,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 594,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAAS4Z_xRVPOpcoI2TMSNigLOH7HuEJjiKM4NhKU7JUwsndUJ9f5h3pBspj0EQBLuIs",
+            "start": 587,
+            "subType": 0,
+            "type": 0,
+            "userId": "7018469163686233093",
+            "userUniqueId": "ochama.official"
+          }
+        ],
+        "video": {
+          "bitrate": 1899530,
+          "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/ed5d8f5008364875bdd714e21c32d091_1713250434?lk3s=b59d6b55&x-expires=1741759200&x-signature=gfFEwtzU8%2BvOmg0ZXkMIDHM5kbM%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/o8joFG36AhIIEgIMCDeFEfvPQErfhVveBgDIIu/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3802&bt=1901&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=NDNlOzU2NDU1ZjpoNTRoZkBpajVvb2o5cnc0cjMzZjczM0BjY2IvLzZjX14xYjQwNjUwYSMtY2NvMmRzc2NgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1741759307&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=0f45c88f694031d36ac8e248054d959d&tk=tt_chain_token",
+          "duration": 45,
+          "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/0264227910b9462aa97faf64cfd7d037_1713250435?lk3s=b59d6b55&x-expires=1741759200&x-signature=W9Gb9U%2F4QXQlCteHKR8zPNUvEaM%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7358354540787158304",
+          "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/997ea7113ea1476d88af08b9652091cf_1713250434?lk3s=b59d6b55&x-expires=1741759200&x-signature=dZroe2DVmNqsFjTbj%2BZhPeNpaq8%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/okf9ID3ePEGF6NCQgIvnhUAqEufgIMwrDIjeEw/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3710&bt=1855&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=OzdpNDo8NTc3ZzlpZWZmNUBpajVvb2o5cnc0cjMzZjczM0AyNWBfMzY1XjYxMl5gMWA2YSMtY2NvMmRzc2NgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1741759307&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=a0d04010cce9dda39e9fd11e92133d1d&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/ed5d8f5008364875bdd714e21c32d091_1713250434~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=Gkg3Qw0xbH4%2FM5WjEGrMTe1LMQg%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/997ea7113ea1476d88af08b9652091cf_1713250434~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=vs86fcjlGM1p%2BN1V0q6lzaHMFWQ%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/997ea7113ea1476d88af08b9652091cf_1713250434~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=5ybaIoWxXxQD%2B8wV7bcmU6d%2FGN0%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7471642770986388778"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10a6cf4ce5e2cac3ea80ef76a0b076d0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=01225a95&x-expires=1741759200&x-signature=xJLMQW1SOoJ3DF%2Bht7WF1WqDLgo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10a6cf4ce5e2cac3ea80ef76a0b076d0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=45f4844b&x-expires=1741759200&x-signature=FzsB2TmkO1X5RHeuDW7QQTIts9M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10a6cf4ce5e2cac3ea80ef76a0b076d0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=64b89cd1&x-expires=1741759200&x-signature=j7peVFEgCLDiPlGxwHuNt1JUQF0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6734656908336595973",
+          "nickname": "Cosmetic Science with Ramón",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAGvQz3sQ2aWoGFHMD3kbDguv5sK5HjtyOTsXPDpIc2cOwHpWKxv3uj7wB5MznlGd1",
+          "secret": false,
+          "signature": "🇵🇷\nScientist + Chemist in the Cosmetic Industry\nSkincare + Beauty Education",
+          "stitchSetting": 0,
+          "uniqueId": "glowbyramon",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 23800,
+          "followerCount": 85500,
+          "followingCount": 1670,
+          "heart": 1900000,
+          "heartCount": 1900000,
+          "videoCount": 773
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "132364",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "7387551",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "oilyskin"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "55258",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "matte"
+          },
+          {
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "desc": "S is for Skincare",
+            "id": "504245",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "title": "skincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "Let's start on the bottom. Show us your #Ranking.",
+            "id": "2300653",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/11900eebb3df5273daf11c2d8ce04285.png?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/11900eebb3df5273daf11c2d8ce04285.png?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/11900eebb3df5273daf11c2d8ce04285.png?shp=b59d6b55&shcp=-",
+            "title": "ranking"
+          }
+        ],
+        "collected": false,
+        "createTime": 1739627483,
+        "desc": "Sunscreens for oily skin that claim to be matte master ranking list #sunscreen #oilyskin #matte #skincare #ranking ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7471642770986388778",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "Cosmetic Science with Ramón",
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10a6cf4ce5e2cac3ea80ef76a0b076d0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=01225a95&x-expires=1741759200&x-signature=xJLMQW1SOoJ3DF%2Bht7WF1WqDLgo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10a6cf4ce5e2cac3ea80ef76a0b076d0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=45f4844b&x-expires=1741759200&x-signature=FzsB2TmkO1X5RHeuDW7QQTIts9M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10a6cf4ce5e2cac3ea80ef76a0b076d0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=64b89cd1&x-expires=1741759200&x-signature=j7peVFEgCLDiPlGxwHuNt1JUQF0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 167,
+          "id": "7471642977790692139",
+          "original": true,
+          "playUrl": "",
+          "title": "original sound"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 2016,
+          "commentCount": 105,
+          "diggCount": 4209,
+          "playCount": 183100,
+          "shareCount": 107
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": ["MASTER RANKING", "Matte Sunscreens for oily skin"],
+            "stickerType": 4
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 78,
+            "hashtagId": "132364",
+            "hashtagName": "sunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 68,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 88,
+            "hashtagId": "7387551",
+            "hashtagName": "oilyskin",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 79,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 95,
+            "hashtagId": "55258",
+            "hashtagName": "matte",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 89,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 105,
+            "hashtagId": "504245",
+            "hashtagName": "skincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 96,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 114,
+            "hashtagId": "2300653",
+            "hashtagName": "ranking",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 106,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 443569,
+          "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oU4kvziIg9niCbC1EmB27AZpiAlWwSApBEXAB?lk3s=b59d6b55&x-expires=1741759200&x-signature=dOXyp8ayctxbxGbDtK2PTuTbf3s%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oYlHbWPbAbjKI3lILTALqgRGCAckYkUCwvefeN/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=916&bt=458&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=PDs2aTU8NmhnPDo7ZTQ3Z0BpMzV1b205cnA8eDMzZzczNEAyY2M1Xi4tX2MxYGFgXy8tYSNqXmpgMmRzaWxgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1741759429&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=a8eb68d1724394f4e88e2a75edb58b3c&tk=tt_chain_token",
+          "duration": 167,
+          "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oU4kvziIg9niCbC1EmB27AZpiAlWwSApBEXAB?lk3s=b59d6b55&x-expires=1741759200&x-signature=dOXyp8ayctxbxGbDtK2PTuTbf3s%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7471642770986388778",
+          "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oQAdDE9nSEbBeRSQrYwfBFmsqDPzyJQmFdqttg?lk3s=b59d6b55&x-expires=1741759200&x-signature=XSo3RL9G%2BP7qD4U8f%2F5jPsZTgzU%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o4fbvFftJntwQgEqNtqFyEiDBvRYsIRhrmSAgD/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=866&bt=433&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=PDU4ZmU7NTVpOTk3ZmkzPEBpMzV1b205cnA8eDMzZzczNEAuNDBfYC8xNjExNmJgX2E0YSNqXmpgMmRzaWxgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1741759429&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=dc95be1370a19b858ceb63a2c4d4abf4&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oU4kvziIg9niCbC1EmB27AZpiAlWwSApBEXAB~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=V9Eo4UAyAIlgP0DKq6U6FIi2bik%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oQAdDE9nSEbBeRSQrYwfBFmsqDPzyJQmFdqttg~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=%2FvTBoB58KpKsFyTxWqcKzTNwMzA%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oQAdDE9nSEbBeRSQrYwfBFmsqDPzyJQmFdqttg~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=r3IfMDQv1qNPyQXZ9oiv4n5xNDU%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7473280175938096415"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7316889152090275886~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=ae0a5e7d&x-expires=1741759200&x-signature=4YQnSINp7mOaTu3da4Ij9O2j7zw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7316889152090275886~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=9cdca118&x-expires=1741759200&x-signature=VSoAVUko5YeCkUofxAblpVO3xPk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7316889152090275886~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=4c4bacdd&x-expires=1741759200&x-signature=zt1HOddFtIMwtFI8qDfbIlKT%2FgU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6640286510434975749",
+          "nickname": "shada",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAs8jv-fi_yk_yHOpb-16M2WO-Z7OMXV2RH00Uq36qmVY9gtugZBHV6SfER8Fq7LtF",
+          "secret": false,
+          "signature": "23 - NJ\nig: shada.abdelaal\n✉️: shadaabdelaalyt@gmail.com",
+          "stitchSetting": 0,
+          "uniqueId": ".shada",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 117200,
+          "followerCount": 91900,
+          "followingCount": 502,
+          "heart": 10700000,
+          "heartCount": 10700000,
+          "videoCount": 588
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1670326869136390",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "mixsoon"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "13714046",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "koreanskincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1676753165776897",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "koreansunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "37622982",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "glassskin"
+          }
+        ],
+        "collected": false,
+        "createTime": 1740008667,
+        "desc": "a sunscreen that doesn’t feel like sunscreen 🫶🏼 #mixsoon #koreanskincare #koreansunscreen #glassskin @mixsoon ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7473280175938096415",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "shada",
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7316889152090275886~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=ae0a5e7d&x-expires=1741759200&x-signature=4YQnSINp7mOaTu3da4Ij9O2j7zw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7316889152090275886~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=9cdca118&x-expires=1741759200&x-signature=VSoAVUko5YeCkUofxAblpVO3xPk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7316889152090275886~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=4c4bacdd&x-expires=1741759200&x-signature=zt1HOddFtIMwtFI8qDfbIlKT%2FgU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 40,
+          "id": "7473280211954830110",
+          "original": true,
+          "playUrl": "",
+          "title": "original sound"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 62,
+          "commentCount": 17,
+          "diggCount": 326,
+          "playCount": 10200,
+          "shareCount": 16
+        },
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 58,
+            "hashtagId": "1670326869136390",
+            "hashtagName": "mixsoon",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 50,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 74,
+            "hashtagId": "13714046",
+            "hashtagName": "koreanskincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 59,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 91,
+            "hashtagId": "1676753165776897",
+            "hashtagName": "koreansunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 75,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 102,
+            "hashtagId": "37622982",
+            "hashtagName": "glassskin",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 92,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 111,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAAiudOXsbnnroO8ACMti_uOKpg4DtA9XqN3f3gRi_WA4oHQgoNOlKNWzMYirkPbbIE",
+            "start": 103,
+            "subType": 0,
+            "type": 0,
+            "userId": "7309224355748660270",
+            "userUniqueId": "mixsoon.us"
+          }
+        ],
+        "video": {
+          "bitrate": 708271,
+          "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oEEeA2rbTLFAaINAIPIG9beMQAVgAmDhIqs1fj?lk3s=b59d6b55&x-expires=1741759200&x-signature=m8gU%2FGSlCXqbwASzW%2FepyRUYtsU%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAAEQON2rhnEfBxD1uDmbIVDVtbREyFAjc6EPf/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1456&bt=728&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=ZGc4NzM8ZWZlNTk5OTg2ZUBpamc8aXQ5cjg5eDMzaTczNEBfLi5iNGNiNTAxNTY2YjYuYSM0anNsMmRjbW9gLS1kMTJzcw%3D%3D&btag=e00088000&expire=1741759302&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=7e45a46362817bd970644451a130154f&tk=tt_chain_token",
+          "duration": 40,
+          "dynamicCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oEEeA2rbTLFAaINAIPIG9beMQAVgAmDhIqs1fj?lk3s=b59d6b55&x-expires=1741759200&x-signature=m8gU%2FGSlCXqbwASzW%2FepyRUYtsU%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7473280175938096415",
+          "originCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/o0M25qerQCsbpQQwN8jbI2WIikbeNA0fBHAXXP?lk3s=b59d6b55&x-expires=1741759200&x-signature=s5yTI1wAHGQYi1Z6r4bA%2BeGXXRc%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEPR1tEW6Dh6k2VOEfyVb4AIDfAwFEQNbBYnmE/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1382&bt=691&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=Njs3ZTpoMzM1aWk6PDZpZUBpamc8aXQ5cjg5eDMzaTczNEAtYy8yXl5iXjYxYl8yY19jYSM0anNsMmRjbW9gLS1kMTJzcw%3D%3D&btag=e00088000&expire=1741759302&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=ecf39521431a71e6bd13698f777b95eb&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEEeA2rbTLFAaINAIPIG9beMQAVgAmDhIqs1fj~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=O68JVPkByOZNEIb%2FrFaRZqSPLZI%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0M25qerQCsbpQQwN8jbI2WIikbeNA0fBHAXXP~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=LBLCAW7fqLR9vao0BCYPqyvSLkM%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0M25qerQCsbpQQwN8jbI2WIikbeNA0fBHAXXP~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=Z4Nft8Bk9qPsORYCBYRqHqM9Gg8%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7284585743501036833"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a52a87feee2cb0a1db8a7cbc4de7f07a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=4464f71f&x-expires=1741759200&x-signature=lk5%2Bh0y6HMNUBmdO32aqg2JCllI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a52a87feee2cb0a1db8a7cbc4de7f07a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=dc277a32&x-expires=1741759200&x-signature=aj%2FJx2kbDM8mU8SRcDfXpArNCto%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/a52a87feee2cb0a1db8a7cbc4de7f07a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=0571690f&x-expires=1741759200&x-signature=MYZhBEIZf2SJ992y%2FwvZHbMfvK0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 3,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6805133466221675526",
+          "nickname": "bluemoon",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAACpAVBjSW-WwZjs9LayvhxvsOzI_fwv3RimxbzFz-kxxaCHLt0KInZItr5kF33FZx",
+          "secret": false,
+          "signature": "Food🍱 🍲 Travel🧭 Thrifting 👗 Video editing 🎥\nSwifte👱‍♀️🤩✨",
+          "stitchSetting": 0,
+          "uniqueId": "bluemoonisho",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 8527,
+          "followerCount": 12000,
+          "followingCount": 211,
+          "heart": 1300000,
+          "heartCount": 1300000,
+          "videoCount": 1137
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1689021703173126",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "larocheposaysunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1660121251551234",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "tintedsunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1645373517486086",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreenreview"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "7186249564196700187",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "larocheposaytintedsunscrream"
+          }
+        ],
+        "collected": false,
+        "createTime": 1696074795,
+        "desc": "Hello @La Roche-Posay #larocheposaysunscreen #tintedsunscreen #sunscreenreview #larocheposaytintedsunscrream ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7284585743501036833",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "",
+          "authorName": "bluemoon",
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a52a87feee2cb0a1db8a7cbc4de7f07a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=4464f71f&x-expires=1741759200&x-signature=lk5%2Bh0y6HMNUBmdO32aqg2JCllI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a52a87feee2cb0a1db8a7cbc4de7f07a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=dc277a32&x-expires=1741759200&x-signature=aj%2FJx2kbDM8mU8SRcDfXpArNCto%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "coverThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/a52a87feee2cb0a1db8a7cbc4de7f07a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=0571690f&x-expires=1741759200&x-signature=MYZhBEIZf2SJ992y%2FwvZHbMfvK0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "duration": 33,
+          "id": "7284585764229221152",
+          "original": true,
+          "playUrl": "",
+          "title": "original sound"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 1451,
+          "commentCount": 68,
+          "diggCount": 3767,
+          "playCount": 498200,
+          "shareCount": 424
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "Let’s compare these tinted sunscreens",
+              "This one is in cream form. ",
+              "This is in Liquid form ",
+              "I actually love both but this liquid form can gets messy very easily ",
+              "I guess I took the cream form more than I needed ",
+              "Now both are blenden in my skin ",
+              "Which do you like more?",
+              "The cream version ",
+              "Or the liquid version ",
+              "The liquid one leaves little brownish residue in my skin ",
+              "The cream one took time to blend but now you can see my natural glow",
+              "Which one is your Favorite?",
+              "Let me know in comment! "
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 21,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAAfyzvECZdz72WAA_j97X6qXWvcJuYJW6A7ZgL-OMFvEBFndF0hstONK0JuJOGqK-t",
+            "start": 6,
+            "subType": 0,
+            "type": 0,
+            "userId": "6826977490638111749",
+            "userUniqueId": "larocheposay"
+          },
+          {
+            "awemeId": "",
+            "end": 44,
+            "hashtagId": "1689021703173126",
+            "hashtagName": "larocheposaysunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 22,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 61,
+            "hashtagId": "1660121251551234",
+            "hashtagName": "tintedsunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 45,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 78,
+            "hashtagId": "1645373517486086",
+            "hashtagName": "sunscreenreview",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 62,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 108,
+            "hashtagId": "7186249564196700187",
+            "hashtagName": "larocheposaytintedsunscrream",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 79,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 1107037,
+          "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/oEHLGhDIEDQlHWGbeDePY9w1gCsEJEAOnBARBI?lk3s=b59d6b55&x-expires=1741759200&x-signature=iiZonselnbrrlDyNE7dibI%2FEltQ%3D&shp=b59d6b55&shcp=-",
+          "duration": 33,
+          "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/07bcb6b35cde411e9e4f54a30dc374f9_1696074799?lk3s=b59d6b55&x-expires=1741759200&x-signature=Q88WFIaUN0c4hi96LpiWfWrtFPE%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7284585743501036833",
+          "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/0e0b2aa4fb994be7a7de276a24d02050_1696074798?lk3s=b59d6b55&x-expires=1741759200&x-signature=e7Styy1Oedry1jTwMCZUaDGAUoc%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/o0egATQRDHnAGPt8AfB4BlMsQRdDREAlg9MabU/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2162&bt=1081&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV3I1upWrKsd.&mime_type=video_mp4&qs=0&rc=aGg7ZDVkaDQzNmk7NTU5ZUBpMzltcTc6ZjQzbjMzZjczM0AwNGNfMF8tXl8xYDBiYzYxYSNkXmQwcjRvamBgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1741759295&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=f9ec037139ca3bb44760a21887708c08&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/oEHLGhDIEDQlHWGbeDePY9w1gCsEJEAOnBARBI~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=N1ZTSJiLHMvfQt9DEwpjoVygsB8%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/0e0b2aa4fb994be7a7de276a24d02050_1696074798~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=lDnaevkE1T2bfdJiWwkWocUO2hU%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/0e0b2aa4fb994be7a7de276a24d02050_1696074798~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=UJczp63k%2FMdklEQfXlpv2vDbcYY%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7354096626182540586"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7328647340699418670~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=26cd0bbc&x-expires=1741759200&x-signature=Z98BFD%2B%2BAXoFVZlMYYHzJr7NE0I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7328647340699418670~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=2f0f64e5&x-expires=1741759200&x-signature=MAOqQGbU6aCmFWkW6p4Ub%2FrVz2o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7328647340699418670~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=ad3f326e&x-expires=1741759200&x-signature=8n1JVesKnRsi31HQSgYuOnNqDuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "7097057216390464555",
+          "nickname": "Dr. Catherine Chang",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAA9Ka2xsF-PqwtLjpW9312g_yGrxe0mUcm5KAUAMaARqU0K0dO-Py8yT2igxlQYk0_",
+          "secret": false,
+          "signature": "Board Certified Plastic Surgeon \n🎓 Harvard, Columbia, UPenn\n📍Beverly Hills",
+          "stitchSetting": 0,
+          "uniqueId": "catchangmd",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 209,
+          "followerCount": 75500,
+          "followingCount": 23,
+          "heart": 2000000,
+          "heartCount": 2000000,
+          "videoCount": 559
+        },
+        "collected": false,
+        "createTime": 1712259161,
+        "desc": "Sunscren is the best anti aging product you can put on your face. ☀️ VC: @LoanVu_uk ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7354096626182540586",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "Dance You Outta My Head",
+          "authorName": "Cat Janice",
+          "coverLarge": "https://p16-sg-default.akamaized.net/aweme/720x720/tos-alisg-v-2774/oIEBHeDWFABligVDAZYQCBFtB2IIIQAfgns1OE.jpeg",
+          "coverMedium": "https://p16-sg-default.akamaized.net/aweme/200x200/tos-alisg-v-2774/oIEBHeDWFABligVDAZYQCBFtB2IIIQAfgns1OE.jpeg",
+          "coverThumb": "https://p16-sg-default.akamaized.net/aweme/100x100/tos-alisg-v-2774/oIEBHeDWFABligVDAZYQCBFtB2IIIQAfgns1OE.jpeg",
+          "duration": 60,
+          "id": "7320403755933124609",
+          "original": false,
+          "playUrl": "",
+          "title": "Dance You Outta My Head"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 15000,
+          "commentCount": 223,
+          "diggCount": 25600,
+          "playCount": 1900000,
+          "shareCount": 4202
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": ["SUNSCREEN IS THE BEST ANTI AGING PRODUCT ☀️"],
+            "stickerType": 9
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 83,
+            "hashtagId": "",
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAAhsg8J1aNMjU7lMZ2kXAXJB8cudcuSoLG0lCsY3YDUeZTeIyM1FGLrnPCMlD-JIcz",
+            "start": 73,
+            "subType": 0,
+            "type": 0,
+            "userId": "7037279974454117382",
+            "userUniqueId": "loanvu_uk"
+          }
+        ],
+        "video": {
+          "bitrate": 618496,
+          "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/197a77478c9746819961e8da8077fa3c_1712259162~tplv-dmt-logom:tos-useast5-i-0068-tx/o0APAA0nxkPEWgai8MFJDD4ABAIZgiAAgBgAE.image?lk3s=b59d6b55&x-expires=1741759200&x-signature=RHdkMIAy3YhrSSms2TK3e4H9IVs%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oI1oA6QWIivthWCB4AzCPBGABETkpwlfwAUiQI/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=960&bt=480&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV4-7upWrKsd.&mime_type=video_mp4&qs=0&rc=OGc2ZzU6M2k1OmVoO2Y2OUBpM2lxPHQ5cm5qcjMzZzczNEA1YzVhMF9eNl4xNTU0YGNjYSNfLjJeMmRjLTRgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1741759306&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=cedc43282332c9fb1936b405bdd67b4b&tk=tt_chain_token",
+          "duration": 44,
+          "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c41f78d341ff42808d77e96cd89d364d_1712259163?lk3s=b59d6b55&x-expires=1741759200&x-signature=YcKx1p1yT9Y5ycNS5GlhLluRtdg%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7354096626182540586",
+          "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/29cc5d34a7ca435dba9a0191b0b5466a_1712259163?lk3s=b59d6b55&x-expires=1741759200&x-signature=P03942g5Jla31zDv7T8ZmgtNSAY%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oUwHCMMxXZ6jHAeefjFxACFIkSuAikA8AMglsQ/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1208&bt=604&cs=0&ds=6&ft=4fUEKMkQ8Zmo0CQ3bb4jV4-7upWrKsd.&mime_type=video_mp4&qs=0&rc=ZGRmOzs0O2g3OWU8Nmc8ZUBpM2lxPHQ5cm5qcjMzZzczNEBgYS0xMWJiXzAxYGBeNi4tYSNfLjJeMmRjLTRgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1741759306&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=7996c0788268e5f42b23bc02e810c93a&tk=tt_chain_token",
+          "ratio": "540p",
+          "reflowCover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/197a77478c9746819961e8da8077fa3c_1712259162~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=3bDzeAmpUS0kM5%2FKdbI8bA9wGQs%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/29cc5d34a7ca435dba9a0191b0b5466a_1712259163~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=M8oucUklbcnt56FZu%2F8sW%2FFku0c%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/29cc5d34a7ca435dba9a0191b0b5466a_1712259163~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=8%2BBGKsbogmR2hfSeDysS%2FR33fWc%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 576
+        },
+        "vl1": false
+      },
+      "type": 1
+    },
+    {
+      "common": {
+        "doc_id_str": "7220570469114727723"
+      },
+      "item": {
+        "author": {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3e008e0c3154d4b45dece6ebf38f44b~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=5c856fdf&x-expires=1741759200&x-signature=zV8ZxmoQGZXONkGBWGIx6ouq19o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3e008e0c3154d4b45dece6ebf38f44b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=445fea44&x-expires=1741759200&x-signature=%2Bj6izkneMuSuwN9fAD2sbEAiYlo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3e008e0c3154d4b45dece6ebf38f44b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=e23489bb&x-expires=1741759200&x-signature=lgIEzCgOCykxwmi491B%2BSYnjICY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast2a",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6862329742084457477",
+          "nickname": "Product Testing",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAPS3hu9FP6cxkhQwqF6WTxXZXAGcR1fbE3-P0mtFaHkwzh15bktDnfLOzy1DPx3Ab",
+          "secret": false,
+          "signature": "Shop smarter 🛍️ Part of @CNN\n\nWhen you use our links, we may earn a commission.",
+          "stitchSetting": 0,
+          "uniqueId": "cnnunderscored",
+          "verified": true
+        },
+        "authorStats": {
+          "diggCount": 1945,
+          "followerCount": 541300,
+          "followingCount": 73,
+          "heart": 23500000,
+          "heartCount": 23500000,
+          "videoCount": 1412
+        },
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1671824385413122",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "oiltest"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "7387551",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "oilyskin"
+          },
+          {
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2d4ead4cd11a45599ea8157524d5894.jpeg?shp=b59d6b55&shcp=-",
+            "desc": "S is for Skincare",
+            "id": "504245",
+            "isCommerce": false,
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08b612f2c58bdfa2a38a0f663ad02622.jpeg?shp=b59d6b55&shcp=-",
+            "title": "skincare"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "132364",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreen"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1689608967121926",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "sunscreentest"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "741795",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "spf"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1622957250476037",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "supergoop"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "82085",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "acne"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1679758379304965",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "commissionearned"
+          }
+        ],
+        "collected": false,
+        "createTime": 1681170080,
+        "desc": "What sunscreen should we test next? Link in bio to shop our faves! #oiltest #oilyskin #skincare #sunscreen #sunscreentest #spf #supergoop #acne #commissionearned ",
+        "digged": false,
+        "duetEnabled": true,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "forFriend": false,
+        "id": "7220570469114727723",
+        "isAd": false,
+        "itemCommentStatus": 0,
+        "itemMute": false,
+        "music": {
+          "album": "Out of My League",
+          "authorName": "Fitz and The Tantrums",
+          "coverLarge": "https://p16-sg-default.akamaized.net/aweme/720x720/tos-alisg-v-2774/79c112ff53de432ab1a25245173d2bd7.jpeg",
+          "coverMedium": "https://p16-sg-default.akamaized.net/aweme/200x200/tos-alisg-v-2774/79c112ff53de432ab1a25245173d2bd7.jpeg",
+          "coverThumb": "https://p16-sg-default.akamaized.net/aweme/100x100/tos-alisg-v-2774/79c112ff53de432ab1a25245173d2bd7.jpeg",
+          "duration": 60,
+          "id": "6705081440117196802",
+          "original": false,
+          "playUrl": "",
+          "title": "Out of My League"
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "showNotPass": false,
+        "stats": {
+          "collectCount": 82000,
+          "commentCount": 3072,
+          "diggCount": 427700,
+          "playCount": 11200000,
+          "shareCount": 24000
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": ["Sunscreen Oil Test Part 12"],
+            "stickerType": 9
+          }
+        ],
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 75,
+            "hashtagId": "1671824385413122",
+            "hashtagName": "oiltest",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 67,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 85,
+            "hashtagId": "7387551",
+            "hashtagName": "oilyskin",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 76,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 95,
+            "hashtagId": "504245",
+            "hashtagName": "skincare",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 86,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 106,
+            "hashtagId": "132364",
+            "hashtagName": "sunscreen",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 96,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 121,
+            "hashtagId": "1689608967121926",
+            "hashtagName": "sunscreentest",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 107,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 126,
+            "hashtagId": "741795",
+            "hashtagName": "spf",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 122,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 137,
+            "hashtagId": "1622957250476037",
+            "hashtagName": "supergoop",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 127,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 143,
+            "hashtagId": "82085",
+            "hashtagName": "acne",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 138,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          },
+          {
+            "awemeId": "",
+            "end": 161,
+            "hashtagId": "1679758379304965",
+            "hashtagName": "commissionearned",
+            "isCommerce": false,
+            "secUid": "",
+            "start": 144,
+            "subType": 0,
+            "type": 1,
+            "userId": "",
+            "userUniqueId": ""
+          }
+        ],
+        "video": {
+          "bitrate": 915387,
+          "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3b0ffd19610c4887a9ccaca2fe3d3d2a_1681170084~tplv-dmt-logom:tos-useast5-i-0068-tx/4414e96b1133472c929c26e8ee7509ba.image?lk3s=b59d6b55&x-expires=1741759200&x-signature=bRnJdqO9njsgD9WHGbtSQsyqmWo%3D&shp=b59d6b55&shcp=-",
+          "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oMYRzhgrI0kPzJEqUB0rLSfz7NBYnDNJOYAy5e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1340&bt=670&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV4-7upWrKsd.&mime_type=video_mp4&qs=0&rc=NjM7OjtnPDg0NTxmNDU3ZUBpamVpaGg6Znk8ajMzZzczNEBeNjVhYDYwXzUxMmExXzRiYSMtM3FucjQwcG5gLS1kMS9zcw%3D%3D&btag=e000b0000&expire=1741759273&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=3f4ee051bfe9f484f24b1870f0f8f188&tk=tt_chain_token",
+          "duration": 11,
+          "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f70020d13ebc4755a73d3e2a15cf5b6a_1681170084?lk3s=b59d6b55&x-expires=1741759200&x-signature=r2wRhHGAf7Pvkeq7LtXkGUMnmGc%3D&shp=b59d6b55&shcp=-",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1280,
+          "id": "7220570469114727723",
+          "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2ecf5f843d53400db27fc9c0aca368f9_1681170084?lk3s=b59d6b55&x-expires=1741759200&x-signature=OJ8y3Dsb0N5zuAt9%2F6IAXLl46r0%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ow5NzNOeEhQSUtnL0QkgfB70IBRJATzBMD1BrS/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1786&bt=893&cs=0&ds=3&ft=4fUEKMkQ8Zmo0CQ3bb4jV4-7upWrKsd.&mime_type=video_mp4&qs=0&rc=NDk6ZzhoZjM7ZDVmOTNoM0BpamVpaGg6Znk8ajMzZzczNEAwYi9gMTQxXi4xYTVjNTRhYSMtM3FucjQwcG5gLS1kMS9zcw%3D%3D&btag=e000b0000&expire=1741759273&l=20250310140101AB69C33645C4CED70317&ply_type=2&policy=2&signature=9d791b823d8034563ffd768733c2f6a5&tk=tt_chain_token",
+          "ratio": "720p",
+          "reflowCover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3b0ffd19610c4887a9ccaca2fe3d3d2a_1681170084~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1741759200&x-signature=DalaRkDiSZMQmmHar8NgxtXogBQ%3D&shp=b59d6b55&shcp=-",
+          "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2ecf5f843d53400db27fc9c0aca368f9_1681170084~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=a8OMb%2FAaHYBZc00iK1TxaHpD%2BOc%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2ecf5f843d53400db27fc9c0aca368f9_1681170084~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1742191200&x-signature=SHxZ6QRUxxeVZc3cDJ5wwC6DMkA%3D&shp=b59d6b55&shcp=-"
+          ],
+          "videoQuality": "normal",
+          "width": 720
+        },
+        "vl1": false
+      },
+      "type": 1
+    }
+  ],
+  "extra": {
+    "api_debug_info": null,
+    "fatal_item_ids": [],
+    "logid": "20250310140101AB69C33645C4CED70317",
+    "now": 1741586462000,
+    "search_request_id": ""
+  },
+  "has_more": 1,
+  "log_pb": {
+    "impr_id": "20250310140101AB69C33645C4CED70317"
+  },
+  "message": "",
+  "nextCursor": "MTItLS1zcGxpdF9jdXNyb3ItLS0yMDI1MDMxMDE0MDEwMUFCNjlDMzM2NDVDNENFRDcwMzE3",
+  "status": "success",
+  "status_code": 0
+}
