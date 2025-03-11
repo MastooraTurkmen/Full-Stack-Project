@@ -15,12 +15,14 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
+    "body-parser": "^1.20.3",
     "cookie-session": "^2.1.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongoose": "^8.10.2",
     "nodemon": "^3.1.9",
     "passport": "^0.5.3",
-    "passport-google-oauth20": "^2.0.0"
+    "passport-google-oauth20": "^2.0.0",
+    "stripe": "^17.7.0"
   }
 }
