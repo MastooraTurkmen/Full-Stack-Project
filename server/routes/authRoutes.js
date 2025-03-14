@@ -6,7 +6,7 @@ module.exports = (app) => {
     }))
 
     app.get("/auth/google/callback", passport.authenticate("google"), (req, res) => {
-        res.redirect("http://localhost:5173/surveys")
+        res.redirect("https://morning-river-33301-a63d34fe2530.herokuapp.com/surveys")
     })
 
     app.get("/api/logout", (req, res) => {
