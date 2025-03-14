@@ -32,6 +32,7 @@
     "nodemon": "^3.1.9",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "stripe": "^17.7.0"
   }
 }
