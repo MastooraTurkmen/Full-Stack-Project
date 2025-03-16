@@ -13,18 +13,13 @@ passport.deserializeUser((id, done) => {
     });
 });
 
-// Dynamically set the callback URL
-// const callbackURL =
-//     process.env.NODE_ENV === "production"
-//         ? "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth/google/callback"
-//         : "http://localhost:3000/auth/google/callback"; // Change if your local server runs on a different port
-
 passport.use(
     new GoogleStrategy(
         {
             clientID: process.env.GOOGLE_CLIENT_ID,
             clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-            callbackURL: "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth/google/callback",
+            // callbackURL: "https://morning-river-33301-a63d34fe2530.herokuapp.com/auth/google/callback",
+            callbackURL: "/auth/google/callback",
             proxy: true,
         },
         async (accessToken, refreshToken, profile, done) => {
