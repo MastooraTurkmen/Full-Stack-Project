@@ -2,9 +2,9 @@ import React from "react";
 
 function Error() {
   return (
-    <div>
-      <div>There was an error</div>
-      <div>404 not found</div>
+    <div className="center">
+      <h1>There was an error</h1>
+      <h1>404 not found</h1>
       <a href="/">Back to home</a>
     </div>
   );
