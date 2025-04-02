@@ -1,0 +1,6 @@
+Flask
+Flask-Limiter
+playwright
+fake_useragent
+python-dotenv
+cachetools
