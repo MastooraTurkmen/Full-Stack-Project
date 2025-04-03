@@ -1,0 +1,193 @@
+{
+  "status": "ok",
+  "data": {
+    "ai_recommend_music": null,
+    "ai_recommend_video": null,
+    "behind_the_song_exist": false,
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250403054059686BEAC762001D0031F4",
+      "now": 1743658861000
+    },
+    "log_pb": {
+      "impr_id": "20250403054059686BEAC762001D0031F4"
+    },
+    "msg": "success",
+    "music_info": {
+      "album": "",
+      "allow_offline_music_to_detail_page": false,
+      "artists": [],
+      "audition_duration": 67,
+      "author": "Khabane lame",
+      "author_deleted": false,
+      "author_position": null,
+      "avatar_medium": {
+        "height": 720,
+        "uri": "tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d",
+        "url_list": [
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_720x720.webp?lk3s=544a444f&nonce=88826&refresh_token=a3eb6ca5ec47ebd21429c6c17dd17133&x-expires=1743742800&x-signature=71nN1zoHi6ac1At6oGlhZgPb4eo%3D&shp=544a444f&shcp=-",
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_720x720.jpeg?lk3s=544a444f&nonce=89577&refresh_token=b430d492f5b718b7fa9cd556a6a192a7&x-expires=1743742800&x-signature=2ZZSKZapdUJDNDhbkHWXegFBShc%3D&shp=544a444f&shcp=-"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "avatar_thumb": {
+        "height": 720,
+        "uri": "tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d",
+        "url_list": [
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_100x100.webp?lk3s=544a444f&nonce=23703&refresh_token=28b69eb79fce7f579fa008033b3863a3&x-expires=1743742800&x-signature=bMfFNbhK%2B0e5fDhW6eIrF2iVavI%3D&shp=544a444f&shcp=-",
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_100x100.jpeg?lk3s=544a444f&nonce=29266&refresh_token=61546096beb6c43723e1b97669a2ae76&x-expires=1743742800&x-signature=NlGDQqU50%2FWXw%2FUex912K4eQiE0%3D&shp=544a444f&shcp=-"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "binded_challenge_id": 0,
+      "can_be_stitched": true,
+      "can_not_reuse": false,
+      "collect_stat": 0,
+      "commercial_right_type": 2,
+      "cover_large": {
+        "height": 720,
+        "uri": "tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d",
+        "url_list": [
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_1080x1080.webp?lk3s=544a444f&nonce=8450&refresh_token=28f8a312d3aef9b24defc7a5c1398c93&x-expires=1743742800&x-signature=u5hjxb%2FnxWR%2BgF3i5vFrophewmc%3D&shp=544a444f&shcp=-",
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_1080x1080.jpeg?lk3s=544a444f&nonce=28883&refresh_token=ef1c2c226b02e6c32baccbb745e6774e&x-expires=1743742800&x-signature=cYg%2FZbGv%2B4%2F%2ByepNU%2FjG2VIpfh4%3D&shp=544a444f&shcp=-"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "cover_medium": {
+        "height": 720,
+        "uri": "tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d",
+        "url_list": [
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_720x720.webp?lk3s=544a444f&nonce=88826&refresh_token=a3eb6ca5ec47ebd21429c6c17dd17133&x-expires=1743742800&x-signature=71nN1zoHi6ac1At6oGlhZgPb4eo%3D&shp=544a444f&shcp=-",
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_720x720.jpeg?lk3s=544a444f&nonce=89577&refresh_token=b430d492f5b718b7fa9cd556a6a192a7&x-expires=1743742800&x-signature=2ZZSKZapdUJDNDhbkHWXegFBShc%3D&shp=544a444f&shcp=-"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "cover_thumb": {
+        "height": 720,
+        "uri": "tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d",
+        "url_list": [
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_100x100.webp?lk3s=544a444f&nonce=23703&refresh_token=28b69eb79fce7f579fa008033b3863a3&x-expires=1743742800&x-signature=bMfFNbhK%2B0e5fDhW6eIrF2iVavI%3D&shp=544a444f&shcp=-",
+          "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e755d298d36b3175a2ca87d603b5dc2d~c5_100x100.jpeg?lk3s=544a444f&nonce=29266&refresh_token=61546096beb6c43723e1b97669a2ae76&x-expires=1743742800&x-signature=NlGDQqU50%2FWXw%2FUex912K4eQiE0%3D&shp=544a444f&shcp=-"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "create_time": 1733171781,
+      "dmv_auto_show": false,
+      "duration": 67,
+      "duration_high_precision": {
+        "audition_duration_precision": 67.7355,
+        "duration_precision": 67.7355,
+        "shoot_duration_precision": 67.7355,
+        "video_duration_precision": 67.7355
+      },
+      "external_song_info": [],
+      "extra": "{\"aed_music_dur\":2,\"amplitude_peak\":0,\"beats\":{},\"can_read\":true,\"can_reuse\":true,\"erase_type\":0,\"erase_uid\":0,\"from_user_id\":0,\"full_song_beat_info\":{},\"full_song_beats\":{},\"has_edited\":0,\"is_batch_take_down_music\":false,\"is_ugc_mapping\":false,\"is_used\":1,\"loudness_lufs\":0,\"music_vid\":\"v24942gl0000ct71kh7og65nkinoto10\",\"owner_id\":127905465618821121,\"resource_status\":0,\"review_unshelve_reason\":0,\"reviewed\":0,\"schedule_search_time\":0}",
+      "has_commerce_right": true,
+      "id": 7443916074024913686,
+      "id_str": "7443916074024913686",
+      "is_allow_shoot": true,
+      "is_audio_url_with_cookie": false,
+      "is_author_artist": false,
+      "is_commerce_music": true,
+      "is_matched_metadata": false,
+      "is_original": false,
+      "is_original_sound": true,
+      "is_pgc": false,
+      "is_shooting_allow": true,
+      "log_extra": "{\"meta_song_matched_type\":\"not_found\",\"ttm_matched_type\":\"\",\"ttm_track_id\":\"\",\"matched_meta_song_id\":\"\",\"vid\":\"\",\"owner_id\":\"127905465618821121\"}",
+      "lyric_short_position": null,
+      "meme_song_info": {},
+      "mid": "7443916074024913686",
+      "multi_bit_rate_play_info": [
+        {
+          "bit_rate": 128005,
+          "dub_infos": null,
+          "gear_name": "higher",
+          "play_addr": {
+            "url_list": [
+              "https://v77.tiktokcdn-eu.com/44239eb9bcc94ffbce8603f91ec65bf6/67ef712f/video/tos/no1a/tos-no1a-v-2370-no/oMeOpnVSE6shCFPJOQkICgFGBEBTBCDvUMkfJ4/?a=1233&bti=OnYpenFxQGo4NDZAOm1rbGhyYCMvNTNg&ch=0&cr=0&dr=0&er=0&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThzaS5OXq8Zmo&mime_type=audio_mpeg&qs=6&rc=Nmg5N2U5PDg6NjY1ODc3OUBpM3JybHE5cms0dzMzbzU8NUAxMWBgL2JgXjExMDQxNmE1YSMucWtoMmQ0aDRgLS1kMTFzcw%3D%3D&vvpl=1&l=20250403054059686BEAC762001D0031F4&btag=e00090000",
+              "https://v58.tiktokcdn-eu.com/video/tos/no1a/tos-no1a-v-2370-no/oMeOpnVSE6shCFPJOQkICgFGBEBTBCDvUMkfJ4/?a=1233&bti=OnYpenFxQGo4NDZAOm1rbGhyYCMvNTNg&ch=0&cr=0&dr=0&er=0&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThzaS5OXq8Zmo&mime_type=audio_mpeg&qs=6&rc=Nmg5N2U5PDg6NjY1ODc3OUBpM3JybHE5cms0dzMzbzU8NUAxMWBgL2JgXjExMDQxNmE1YSMucWtoMmQ0aDRgLS1kMTFzcw%3D%3D&vvpl=1&l=20250403054059686BEAC762001D0031F4&VExpiration=1743745327&VSignature=W96Khi-YZiQkIwueTMe9jA&btag=e00090000"
+            ],
+            "url_prefix": null
+          },
+          "quality_type": 6
+        }
+      ],
+      "mute_share": false,
+      "offline_desc": "",
+      "owner_handle": "khaby.lame",
+      "owner_id": "127905465618821121",
+      "owner_nickname": "Khabane lame",
+      "play_url": {
+        "height": 720,
+        "uri": "https://sf16-music.tiktokcdn-eu.com/obj/ies-music-eu2-no/7443916108610636566.mp3",
+        "url_list": [
+          "https://sf16-music.tiktokcdn-eu.com/obj/ies-music-eu2-no/7443916108610636566.mp3"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "position": null,
+      "prevent_download": false,
+      "preview_end_time": 0,
+      "preview_start_time": 0,
+      "recommend_status": 100,
+      "sec_uid": "MS4wLjABAAAAwAg0rSzO65WQfz4RzQgGv2Xdv108BgPXhRrrmNVIHQZ9PO8-flwwRtEppYTS0OjA",
+      "share_info": {
+        "bool_persist": 0,
+        "now_invitation_card_image_urls": null,
+        "share_desc": "Check out this song! original sound - khaby.lame #TikTok",
+        "share_desc_info": "Users all over the world are having fun making their own versions of the song original sound - khaby.lame on TikTok! Tap here >>",
+        "share_quote": "",
+        "share_signature_desc": "",
+        "share_signature_url": "",
+        "share_title": "Amazing! I just found a bunch of funny videos! #TikTok > original sound - khaby.lame",
+        "share_title_myself": "",
+        "share_title_other": "",
+        "share_url": "https://www.tiktok.com/music/original-sound-7443916074024913686?_r=1&sharer_language=en&source=h5_m&u_code=0&_d=eik564f4415baf&share_music_id=7443916074024913686"
+      },
+      "shoot_duration": 67,
+      "source_platform": 72,
+      "status": 1,
+      "strong_beat_url": {
+        "height": 720,
+        "uri": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/pattern/53626959e8a19b95d6792740aa29c2dc.json",
+        "url_list": [
+          "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/pattern/53626959e8a19b95d6792740aa29c2dc.json"
+        ],
+        "url_prefix": null,
+        "width": 720
+      },
+      "suggest_words": {
+        "suggest_words": [
+          {
+            "scene": "search_hint",
+            "words": [
+              {
+                "word": "",
+                "word_id": "2756695999776541628"
+              }
+            ]
+          }
+        ]
+      },
+      "tag_list": null,
+      "title": "original sound - khaby.lame",
+      "tt_to_dsp_song_infos": null,
+      "uncert_artists": null,
+      "user_count": 37,
+      "vid_volume_info": "{\"LoudnessRangeEnd\":-17.7,\"MaximumMomentaryLoudness\":-12.3,\"Peak\":0.8414,\"Version\":1,\"Loudness\":-21.7,\"LoudnessRange\":21.2,\"LoudnessRangeStart\":-38.9,\"MaximumShortTermLoudness\":-16.1}",
+      "video_duration": 67
+    },
+    "rec_list": [],
+    "similar_music": [],
+    "similar_music_ids": null,
+    "status_code": 0,
+    "status_msg": ""
+  }
+}
